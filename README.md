@@ -6,7 +6,7 @@ https://github.com/GaboRenovation/Bootcamp_final.git
 
 
 # Self-assessment
-I played different roles from circle to triangle. My role also in the project included also the Business User point of view. Even that I did not suggest the topic for the project I know about that industry, so it was not just about coding and reporting, I look after to create a sense of business on the analysis, challenging processes that we could identify from the dataset and make disruptive advisements with the results.
+I played different roles from circle to triangle. My role in the project included also the Business User point of view. Even that I did not suggest the topic for the project I know about that industry, so it was not just about coding and reporting, I look after to create a sense of business on the analysis, challenging processes that we could identify from the dataset and make disruptive advisements with the results.
 I was advising about what could make sense in the real world once we got the code and start reviewing the outputs. All the collaboration took place over whatsapp, slack and zoom, asking for more information and explaining some business processes related to the topic selected. 
 My greatest challenge (personal) was in the database creation and connection, so I asked for help to connect the AWS database, the team helped me. 
 At the very end I was in charge of creating the dashboard and draft some hypothesis around the code.
